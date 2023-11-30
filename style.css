@@ -14,51 +14,51 @@ height: 100vh;
 
 .wrapper span {
     position: fixed;
-    bottom: -80px;
-    animation: animate 7s linear infinite;
-    font-size: 60px;
+    bottom: -90px;
+    animation: animate 6s linear infinite;
+    font-size: 69px;
     z-index: -1;
 }
 
 .wrapper span:nth-child(1){
-    left: 60px;
+    left: 1%;
     animation-delay: 0.6s;    
 }
 .wrapper span:nth-child(2){
-    left: 10%;
-    animation-delay: 3s;  
+    left: 16%;
+    animation-delay: 1s;  
 }
 .wrapper span:nth-child(3){
     left: 20%;
-    animation-delay: 2s;    
+    animation-delay: 3s;    
 }
 .wrapper span:nth-child(4){
-    left: 30%;
-    animation-delay: 5s;   
+    left: 35%;
+    animation-delay: 2s;   
 }
 .wrapper span:nth-child(5){
-    left: 40%;
-    animation-delay: 1s;    
+    left: 47%;
+    animation-delay: 5s;    
 }
 .wrapper span:nth-child(6){
-    left: 50%;
-    animation-delay: 7s;    
+    left: 56%;
+    animation-delay: 3s;    
 }
 .wrapper span:nth-child(7){
-    left: 60%;
-    animation-delay: 6s;  
+    left: 68%;
+    animation-delay: 4s;  
 }
 .wrapper span:nth-child(8){
-    left: 70%;
-    animation-delay: 8s;    
+    left: 75%;
+    animation-delay: 2s;    
 }
 .wrapper span:nth-child(9){
-    left: 80%;
-    animation-delay: 6s;  
+    left: 82%;
+    animation-delay: 3s;  
 }
 .wrapper span:nth-child(10){
-    left: 90%;
-    animation-delay: 4s;    
+    left: 95%;
+    animation-delay: 1s;    
 }
 
 .navbar{
@@ -185,7 +185,7 @@ height: 100vh;
         transform: translateY(0);
         opacity: 1;
     }
-    60%{
+    50%{
         opacity: 8;
     }
     100%{
